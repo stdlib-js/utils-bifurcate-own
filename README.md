@@ -231,6 +231,15 @@ console.log( out );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   [`@stdlib/utils/bifurcate`][@stdlib/utils/bifurcate]: split values into two groups.
+-   [`@stdlib/utils/bifurcate-by`][@stdlib/utils/bifurcate-by]: split values into two groups according to a predicate function.
+-   [`@stdlib/utils/bifurcate-in`][@stdlib/utils/bifurcate-in]: split an object's own and inherited property values into two groups according to a predicate function.
+-   [`@stdlib/utils/group-own`][@stdlib/utils/group-own]: group an object's own property values according to an indicator function.
+
 </section>
 
 <!-- /.related -->
@@ -293,6 +302,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/utils-bifurcate-own/main/LICENSE
 
 [ecma-262-for-in]: http://www.ecma-international.org/ecma-262/5.1/#sec-12.6.4
+
+<!-- <related-links> -->
+
+[@stdlib/utils/bifurcate]: https://github.com/stdlib-js/utils-bifurcate
+
+[@stdlib/utils/bifurcate-by]: https://github.com/stdlib-js/utils-bifurcate-by
+
+[@stdlib/utils/bifurcate-in]: https://github.com/stdlib-js/utils-bifurcate-in
+
+[@stdlib/utils/group-own]: https://github.com/stdlib-js/utils-group-own
+
+<!-- </related-links> -->
 
 </section>
 

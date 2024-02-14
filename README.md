@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import bifurcateOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-bifurcate-own@esm/index.mjs';
+import bifurcateOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-bifurcate-own@v0.2.0-esm/index.mjs';
 ```
 
 #### bifurcateOwn( obj, \[options,] predicate )
@@ -200,7 +200,7 @@ console.log( context.count );
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
 import fromCodePoint from 'https://cdn.jsdelivr.net/gh/stdlib-js/string-from-code-point@esm/index.mjs';
-import bifurcateOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-bifurcate-own@esm/index.mjs';
+import bifurcateOwn from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-bifurcate-own@v0.2.0-esm/index.mjs';
 
 var key;
 var obj;

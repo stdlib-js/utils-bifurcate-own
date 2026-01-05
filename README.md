@@ -258,7 +258,7 @@ console.log( out );
 
 -   <span class="package-name">[`@stdlib/utils-bifurcate`][@stdlib/utils/bifurcate]</span><span class="delimiter">: </span><span class="description">split values into two groups.</span>
 -   <span class="package-name">[`@stdlib/utils-bifurcate-by`][@stdlib/utils/bifurcate-by]</span><span class="delimiter">: </span><span class="description">split values into two groups according to a predicate function.</span>
--   <span class="package-name">[`@stdlib/utils-bifurcate-in`][@stdlib/utils/bifurcate-in]</span><span class="delimiter">: </span><span class="description">split an object's own and inherited property values into two groups according to a predicate function.</span>
+-   <span class="package-name">[`@stdlib/object-bifurcate-in`][@stdlib/object/bifurcate-in]</span><span class="delimiter">: </span><span class="description">split an object's own and inherited property values into two groups according to a predicate function.</span>
 -   <span class="package-name">[`@stdlib/utils-group-own`][@stdlib/utils/group-own]</span><span class="delimiter">: </span><span class="description">group an object's own property values according to an indicator function.</span>
 
 </section>
@@ -291,7 +291,7 @@ See [LICENSE][stdlib-license].
 
 ## Copyright
 
-Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
+Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 
 </section>
 
@@ -345,7 +345,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/utils/bifurcate-by]: https://github.com/stdlib-js/utils-bifurcate-by
 
-[@stdlib/utils/bifurcate-in]: https://github.com/stdlib-js/utils-bifurcate-in
+[@stdlib/object/bifurcate-in]: https://github.com/stdlib-js/object-bifurcate-in
 
 [@stdlib/utils/group-own]: https://github.com/stdlib-js/utils-group-own
 
